@@ -4,7 +4,7 @@ Mi nombre es Gabriela, tengo 18 años y termine mis estudios secundarios en 2024
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gaby-moya-vega-a29176347) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gmoyavega06@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gaby-moya-vega-a29176347) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gmoyavega06@gmail.com) www.linkedin.com/in/gaby-moya-vega-a29176347
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gmoyavega&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gmoyavega&theme=dark&hide_border=false)<br/>
