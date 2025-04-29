@@ -1,6 +1,8 @@
 ## Hi there Gabriela👋
 # 💫 About Me:
-Mi nombre es Gabriela, tengo 18 años y termine mis estudios secundarios en 2024, finalizando entre los mejores promedios generales. <br>Actualmente me estoy formando formando en el mundo de la informatica y me interesa seguir aprendiendo sobre la programacion y todas sus ramas <br>me encantaria en un futuro poder trabajar en algo entorno a esto.<br><br>Si te interesa, podes visitar mi perfil de Linkedin
+Hola, mi nombre es Gabriela. Tengo 18 años y finalicé mis estudios secundarios en 2024, obteniendo uno de los mejores promedios generales.
+Actualmente me estoy formando en el mundo de la informática, con un gran interés en seguir aprendiendo sobre programación y sus diversas áreas.
+Me encantaría, en el futuro, poder desarrollarme profesionalmente en este campo.
 
 
 ## 🌐 Socials:
