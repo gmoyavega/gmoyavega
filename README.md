@@ -6,7 +6,7 @@ Me encantaría, en el futuro, poder desarrollarme profesionalmente en este campo
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gaby-moya-vega-a29176347)  www.linkedin.com/in/gaby-moya-vega-a29176347
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gaby-moya-vega-a29176347)  www.linkedin.com/in/gabriela-moya-vega-a29176347
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gmoyavega&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gmoyavega&theme=dark&hide_border=false)<br/>
